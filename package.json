@@ -1,0 +1,21 @@
+{
+    "name": "astro-theme",
+    "displayName": "astro-theme",
+    "description": "Astro Theme Official",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "astro-theme-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/astro-theme-dark-color-theme.json"
+            }
+        ]
+    }
+}
