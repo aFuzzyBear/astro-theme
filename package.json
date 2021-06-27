@@ -15,6 +15,11 @@
                 "label": "astro-theme-dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/astro-theme-dark-color-theme.json"
+            },
+            {
+                "label": "astro-theme-green-light",
+                "uiTheme": "vs-light",
+                "path": "./themes/astro-green-light.json"
             }
         ]
     }
