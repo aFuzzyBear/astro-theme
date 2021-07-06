@@ -12,14 +12,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "astro-theme-dark",
+                "label": "astro-green-dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/astro-theme-dark-color-theme.json"
+                "path": "./themes/astro-green-dark.json"
             },
             {
-                "label": "astro-theme-green-light",
+                "label": "astro-green-light",
                 "uiTheme": "vs-light",
                 "path": "./themes/astro-green-light.json"
+            },
+            {
+                "label": "astro-blue-dark",
+                "uiTheme": "vs-light",
+                "path": "./themes/astro-blue-dark.json"
             }
         ]
     }
