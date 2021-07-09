@@ -12,6 +12,16 @@
     "contributes": {
         "themes": [
             {
+                "label": "astro-blue-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/astro-blue-dark.json"
+            },
+            {
+                "label": "astro-blue-light",
+                "uiTheme": "vs-light",
+                "path": "./themes/astro-blue-light.json"
+            },
+            {
                 "label": "astro-green-dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/astro-green-dark.json"
@@ -22,9 +32,14 @@
                 "path": "./themes/astro-green-light.json"
             },
             {
-                "label": "astro-blue-dark",
+                "label": "astro-red-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/astro-red-dark.json"
+            },
+            {
+                "label": "astro-red-light",
                 "uiTheme": "vs-light",
-                "path": "./themes/astro-blue-dark.json"
+                "path": "./themes/astro-red-light.json"
             }
         ]
     }
